@@ -6,6 +6,7 @@ import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:vin_checker_app/models/data_model.dart';
 import 'package:vin_checker_app/screens/history_screen.dart';
+import 'package:vin_checker_app/screens/privacy_policy.dart';
 import 'package:vin_checker_app/screens/result_screen.dart';
 import 'package:vin_checker_app/utils/input_formatter.dart';
 import 'package:vin_checker_app/utils/qr_code_screen.dart';
@@ -49,7 +50,6 @@ class _HomeScreenState extends State<HomeScreen> {
 
 @override
   void initState() {
-      _vcController.text = widget.barcode.toString();
 
 
     _isLoading = false;
@@ -63,10 +63,37 @@ class _HomeScreenState extends State<HomeScreen> {
     var _width = MediaQuery.of(context).size.width;
 
     return Scaffold(
+      drawer:
+      Drawer(
+       child: ListView(
+         children: [
+           DrawerHeader(child: Container(
+             child: Image.asset("assets/logo.png"),
+           )),
+           ListTile(
+
+             title: Text("History"),
+
+             onTap: (){
+               Navigator.of(context).push(MaterialPageRoute(builder: (context)=>HistoryScreen()));
+             },
+           ),
+           ListTile(
+             onTap: (){
+               Navigator.of(context).push(MaterialPageRoute(builder: (context)=>PrivacyPolicy()));
+             },
+             title: Text("Privacy policy"),
+           ),
+           ListTile(
+             title: Text("Version 1.0.0"),
+           ),
+         ],
+       ),
+      ),
       extendBodyBehindAppBar: true,
       backgroundColor: Color(0xFF570C05),
       appBar: AppBar(
-        actions: [],
+        iconTheme: IconThemeData(color: Colors.white),
         backgroundColor: Colors.transparent,
         centerTitle: true,
       ),
@@ -106,7 +133,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           child: Container(child: FittedBox(child:
                             IconButton(icon: Icon(Icons.qr_code_scanner_rounded, color: Colors.indigoAccent,),
                               onPressed: () {
-                             Navigator.of(context).push(MaterialPageRoute(builder: (context)=>BarcodeScannerWithZoom()));
+                             Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context)=>BarcodeScannerWithZoom()));
                               },)),
                             height: 80,
                             decoration: BoxDecoration(

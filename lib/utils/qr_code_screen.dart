@@ -19,7 +19,6 @@ class _BarcodeScannerWithZoomState extends State<BarcodeScannerWithZoom>
   );
 
   bool isStarted = true;
-  double _zoomFactor = 0.0;
 
   @override
   Widget build(BuildContext context) {
@@ -27,6 +26,10 @@ class _BarcodeScannerWithZoomState extends State<BarcodeScannerWithZoom>
       extendBodyBehindAppBar: true,
       backgroundColor: Theme.of(context).colorScheme.inversePrimary,
       appBar: AppBar(
+        leading: IconButton(onPressed: () {
+          Navigator.pushReplacement(context, MaterialPageRoute(builder: (context)=>HomeScreen("")));
+        }, icon: Icon(Icons.cancel_outlined, color: Colors.white,),),
+
         actions: [
 
         ],
@@ -58,20 +61,23 @@ class _BarcodeScannerWithZoomState extends State<BarcodeScannerWithZoom>
                   fit: BoxFit.contain,
                   onDetect: (barcode) {
                     // Navigator.pop(context, MaterialPageRoute(builder: (context)=>HomeScreen(barcode!.barcodes.first.rawValue.toString())));
-                    showDialog(context: context, builder: (context){
-                      return AlertDialog(
-                        title: Text(barcode!.barcodes.first.rawValue.toString()),
-                        actions: [
-                          ElevatedButton(onPressed: (){
-                             Navigator.pushReplacement(context, MaterialPageRoute(builder: (context)=>HomeScreen(barcode!.barcodes.first.rawValue.toString())));
+                    showBottomSheet(context: context, builder: (context){
+                      return Container(
+                        height: 300,
+                        child: AlertDialog(
+                          title: Text(barcode!.barcodes.first.rawValue.toString()),
+                          actions: [
+                            ElevatedButton(onPressed: (){
+                               Navigator.pushReplacement(context, MaterialPageRoute(builder: (context)=>HomeScreen(barcode!.barcodes.first.rawValue.toString())));
 
-                          }, child: Text("Accept")),
-                          TextButton(onPressed: (){
+                            }, child: Text("Accept")),
+                            TextButton(onPressed: (){
+                              Navigator.pop(context);
+                            }, child: Text("Cancel")),
 
-                          }, child: Text("Cancel")),
 
-
-                        ],
+                          ],
+                        ),
                       );
                     });
                   },
