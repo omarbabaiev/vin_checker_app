@@ -60,7 +60,6 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     var _height = MediaQuery.of(context).size.height;
-    var _width = MediaQuery.of(context).size.width;
 
     return Scaffold(
       drawer:

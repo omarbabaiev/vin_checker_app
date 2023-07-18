@@ -53,8 +53,329 @@ class _PrivacyPolicyState extends State<PrivacyPolicy> {
   }
   var _text =
   """
-                                 PRIVACY POLICY
-Last updated June 09, 2023This privacy notice for LezginDev ('Company', 'we', 'us', or 'our'), describes how and why we might collect, store, use, and/or share ('process') your information when you use our services ('Services'), such as when you:Download and use our mobile application (Vincheck), or any other application of ours that links to this privacy noticeEngage with us in other related ways, including any sales, marketing, or eventsQuestions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at omarbaba007@mail.ru.SUMMARY OF KEY POINTSThis summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for.What personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on how you interact with LezginDev and the Services, the choices you make, and the products and features you use. Learn more about personal information you disclose to us.Do we process any sensitive personal information? We do not process sensitive personal information.Do we receive any information from third parties? We do not receive any information from third parties.How do we process your information? We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about how we process your information.In what situations and with which parties do we share personal information? We may share information in specific situations and with specific third parties. Learn more about when and with whom we share your personal information.What are your rights? Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about your privacy rights.How do you exercise your rights? The easiest way to exercise your rights is by submitting a data subject access request, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.Want to learn more about what LezginDev does with any information we collect? Review the privacy notice in full.TABLE OF CONTENTS1. WHAT INFORMATION DO WE COLLECT?2. HOW DO WE PROCESS YOUR INFORMATION?3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?   5. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?6. HOW LONG DO WE KEEP YOUR INFORMATION?7. DO WE COLLECT INFORMATION FROM MINORS?8. WHAT ARE YOUR PRIVACY RIGHTS?9. CONTROLS FOR DO-NOT-TRACK FEATURES10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?11. DO VIRGINIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?12. DO WE MAKE UPDATES TO THIS NOTICE?13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?1. WHAT INFORMATION DO WE COLLECT?Personal information you disclose to usIn Short: We collect personal information that you provide to us.We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.Sensitive Information. We do not process sensitive information.All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.2. HOW DO WE PROCESS YOUR INFORMATION?In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.We process your personal information for a variety of reasons, depending on how you interact with our Services, including:To save or protect an individual's vital interest. We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?In Short: We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e. legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfil our contractual obligations, to protect your rights, or to fulfil our legitimate business interests.If you are located in the EU or UK, this section applies to you.The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:Consent. We may process your information if you have given us permission (i.e. consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about withdrawing your consent.Legal Obligations. We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.Vital Interests. We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.If you are located in Canada, this section applies to you.We may process your information if you have given us specific permission (i.e. express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e. implied consent). You can withdraw your consent at any time.In some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:If collection is clearly in the interests of an individual and consent cannot be obtained in a timely wayFor investigations and fraud detection and preventionFor business transactions provided certain conditions are metIf it is contained in a witness statement and the collection is necessary to assess, process, or settle an insurance claimFor identifying injured, ill, or deceased persons and communicating with next of kinIf we have reasonable grounds to believe an individual has been, is, or may be victim of financial abuseIf it is reasonable to expect collection and use with consent would compromise the availability or the accuracy of the information and the collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a provinceIf disclosure is required to comply with a subpoena, warrant, court order, or rules of the court relating to the production of recordsIf it was produced by an individual in the course of their employment, business, or profession and the collection is consistent with the purposes for which the information was producedIf the collection is solely for journalistic, artistic, or literary purposesIf the information is publicly available and is specified by the regulations4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?In Short: We may share information in specific situations described in this section and/or with the following third parties.We may need to share your personal information in the following situations:Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.5. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?In Short: We may use cookies and other tracking technologies to collect and store your information.We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.6. HOW LONG DO WE KEEP YOUR INFORMATION?In Short: We keep your information for as long as necessary to fulfil the purposes outlined in this privacy notice unless otherwise required by law.We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements).When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.7. DO WE COLLECT INFORMATION FROM MINORS?In Short: We do not knowingly collect data from or market to children under 18 years of age.We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at omarbaba007@mail.ru.8. WHAT ARE YOUR PRIVACY RIGHTS?In Short: In some regions, such as the European Economic Area (EEA), United Kingdom (UK), and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.In some regions (like the EEA, UK, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section 'HOW CAN YOU CONTACT US ABOUT THIS NOTICE?' below.We will consider and act upon any request in accordance with applicable data protection laws. If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your Member State data protection authority or UK data protection authority.If you are located in Switzerland, you may contact the Federal Data Protection and Information Commissioner.Withdrawing your consent: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section 'HOW CAN YOU CONTACT US ABOUT THIS NOTICE?' below.However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.If you have questions or comments about your privacy rights, you may email us at omarbaba007@mail.ru.9. CONTROLS FOR DO-NOT-TRACK FEATURESMost web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ('DNT') feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognising and implementing DNT signals has been finalised. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?In Short: Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.California Civil Code Section 1798.83, also known as the 'Shine The Light' law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.If you are under 18 years of age, reside in California, and have a registered account with Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g. backups, etc.).CCPA Privacy NoticeThe California Code of Regulations defines a 'resident' as:(1) every individual who is in the State of California for other than a temporary or transitory purpose and(2) every individual who is domiciled in the State of California who is outside the State of California for a temporary or transitory purposeAll other individuals are defined as 'non-residents'.If this definition of 'resident' applies to you, we must adhere to certain rights and obligations regarding your personal information.What categories of personal information do we collect?We have collected the following categories of personal information in the past twelve (12) months:CategoryExamplesCollectedA. IdentifiersContact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account nameNOB. Personal information categories listed in the California Customer Records statuteName, contact information, education, employment, employment history, and financial informationNOC. Protected classification characteristics under California or federal lawGender and date of birthNOD. Commercial informationTransaction information, purchase history, financial details, and payment informationNOE. Biometric informationFingerprints and voiceprintsNOF. Internet or other similar network activityBrowsing history, search history, online behaviour, interest data, and interactions with our and other websites, applications, systems, and advertisementsNOG. Geolocation dataDevice locationNOH. Audio, electronic, visual, thermal, olfactory, or similar informationImages and audio, video or call recordings created in connection with our business activitiesNOI. Professional or employment-related informationBusiness contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with usNOJ. Education InformationStudent records and directory informationNOK. Inferences drawn from other personal informationInferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristicsNOL. Sensitive Personal InformationNOWe may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:Receiving help through our customer support channels;Participation in customer surveys or contests; andFacilitation in the delivery of our Services and to respond to your inquiries.How do we use and share your personal information?More information about our data collection and sharing practices can be found in this privacy notice.You may contact us by email at omarbaba007@mail.ru, or by referring to the contact details at the bottom of this document.If you are using an authorised agent to exercise your right to opt out we may deny a request if the authorised agent does not submit proof that they have been validly authorised to act on your behalf.Will your information be shared with anyone else?We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Each service provider is a for-profit entity that processes the information on our behalf, following the same strict privacy protection obligations mandated by the CCPA.We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be 'selling' of your personal information.LezginDev has not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. LezginDev will not sell or share personal information in the future belonging to website visitors, users, and other consumers.Your rights with respect to your personal dataRight to request deletion of the data — Request to deleteYou can ask for the deletion of your personal information. If you ask us to delete your personal information, we will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, our compliance requirements resulting from a legal obligation, or any processing that may be required to protect against illegal activities.Right to be informed — Request to knowDepending on the circumstances, you have a right to know:whether we collect and use your personal information;the categories of personal information that we collect;the purposes for which the collected personal information is used;whether we sell or share personal information to third parties;the categories of personal information that we sold, shared, or disclosed for a business purpose;the categories of third parties to whom the personal information was sold, shared, or disclosed for a business purpose;the business or commercial purpose for collecting, selling, or sharing personal information; andthe specific pieces of personal information we collected about you.In accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.Right to Non-Discrimination for the Exercise of a Consumer’s Privacy RightsWe will not discriminate against you if you exercise your privacy rights.Right to Limit Use and Disclosure of Sensitive Personal InformationWe do not process consumer's sensitive personal information.Verification processUpon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. These verification efforts require us to ask you to provide information so that we can match it with information you have previously provided us. For instance, depending on the type of request you submit, we may ask you to provide certain information so that we can match the information you provide with the information we already have on file, or we may contact you through a communication method (e.g. phone or email) that you have previously provided to us. We may also use other verification methods as the circumstances dictate.We will only use personal information provided in your request to verify your identity or authority to make the request. To the extent possible, we will avoid requesting additional information from you for the purposes of verification. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.Other privacy rightsYou may object to the processing of your personal information.You may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the information.You can designate an authorised agent to make a request under the CCPA on your behalf. We may deny a request from an authorised agent that does not submit proof that they have been validly authorised to act on your behalf in accordance with the CCPA.You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.To exercise these rights, you can contact us by email at omarbaba007@mail.ru, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.11. DO VIRGINIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?In Short: Yes, if you are a resident of Virginia, you may be granted specific rights regarding access to and use of your personal information.Virginia CDPA Privacy NoticeUnder the Virginia Consumer Data Protection Act (CDPA):'Consumer' means a natural person who is a resident of the Commonwealth acting only in an individual or household context. It does not include a natural person acting in a commercial or employment context.'Personal data' means any information that is linked or reasonably linkable to an identified or identifiable natural person. 'Personal data' does not include de-identified data or publicly available information.'Sale of personal data' means the exchange of personal data for monetary consideration.If this definition 'consumer' applies to you, we must adhere to certain rights and obligations regarding your personal data.The information we collect, use, and disclose about you will vary depending on how you interact with LezginDev and our Services. To find out more, please visit the following links:Personal data we collectHow we use your personal dataWhen and with whom we share your personal dataYour rights with respect to your personal dataRight to be informed whether or not we are processing your personal dataRight to access your personal dataRight to correct inaccuracies in your personal dataRight to request deletion of your personal dataRight to obtain a copy of the personal data you previously shared with usRight to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ('profiling')LezginDev has not sold any personal data to third parties for business or commercial purposes. LezginDev will not sell personal data in the future belonging to website visitors, users, and other consumers.Exercise your rights provided under the Virginia CDPAMore information about our data collection and sharing practices can be found in this privacy notice.You may contact us by email at omarbaba007@mail.ru, by submitting a data subject access request, or by referring to the contact details at the bottom of this document.If you are using an authorised agent to exercise your rights, we may deny a request if the authorised agent does not submit proof that they have been validly authorised to act on your behalf.Verification processWe may request that you provide additional information reasonably necessary to verify you and your consumer's request. If you submit the request through an authorised agent, we may need to collect additional information to verify your identity before processing your request.Upon receiving your request, we will respond without undue delay, but in all cases, within forty-five (45) days of receipt. The response period may be extended once by forty-five (45) additional days when reasonably necessary. We will inform you of any such extension within the initial 45-day response period, together with the reason for the extension.Right to appealIf we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at omarbaba007@mail.ru. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal if denied, you may contact the Attorney General to submit a complaint.12. DO WE MAKE UPDATES TO THIS NOTICE?In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.We may update this privacy notice from time to time. The updated version will be indicated by an updated 'Revised' date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?If you have questions or comments about this notice, you may email us at omarbaba007@mail.ru or contact us by post at:LezginDevBakuBaku 1000Azerbaijan14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?You have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please fill out and submit a data subject access request.
-  """;
+                                 Privacy Policy  
+==============
+
+Last updated: July 18, 2023
+
+This Privacy Policy describes Our policies and procedures on the collection,
+use and disclosure of Your information when You use the Service and tells You
+about Your privacy rights and how the law protects You.
+
+We use Your Personal data to provide and improve the Service. By using the
+Service, You agree to the collection and use of information in accordance with
+this Privacy Policy. This Privacy Policy has been created with the help of the
+[Privacy Policy Generator](https://www.termsfeed.com/privacy-policy-
+generator/).
+
+Interpretation and Definitions  
+==============================
+
+Interpretation  
+--------------
+
+The words of which the initial letter is capitalized have meanings defined
+under the following conditions. The following definitions shall have the same
+meaning regardless of whether they appear in singular or in plural.
+
+Definitions  
+-----------
+
+For the purposes of this Privacy Policy:
+
+  * Account means a unique account created for You to access our Service or
+    parts of our Service.
+
+  * Affiliate means an entity that controls, is controlled by or is under
+    common control with a party, where "control" means ownership of 50% or
+    more of the shares, equity interest or other securities entitled to vote
+    for election of directors or other managing authority.
+
+  * Application refers to Vincheck, the software program provided by the
+    Company.
+
+  * Company (referred to as either "the Company", "We", "Us" or "Our" in this
+    Agreement) refers to Vincheck.
+
+  * Country refers to: Azerbaijan
+
+  * Device means any device that can access the Service such as a computer, a
+    cellphone or a digital tablet.
+
+  * Personal Data is any information that relates to an identified or
+    identifiable individual.
+
+  * Service refers to the Application.
+
+  * Service Provider means any natural or legal person who processes the data
+    on behalf of the Company. It refers to third-party companies or
+    individuals employed by the Company to facilitate the Service, to provide
+    the Service on behalf of the Company, to perform services related to the
+    Service or to assist the Company in analyzing how the Service is used.
+
+  * Usage Data refers to data collected automatically, either generated by the
+    use of the Service or from the Service infrastructure itself (for example,
+    the duration of a page visit).
+
+  * You means the individual accessing or using the Service, or the company,
+    or other legal entity on behalf of which such individual is accessing or
+    using the Service, as applicable.
+
+
+Collecting and Using Your Personal Data  
+=======================================
+
+Types of Data Collected  
+-----------------------
+
+Personal Data  
+~~~~~~~~~~~~~
+
+While using Our Service, We may ask You to provide Us with certain personally
+identifiable information that can be used to contact or identify You.
+Personally identifiable information may include, but is not limited to:
+
+  * Email address
+
+  * Usage Data
+
+
+Usage Data  
+~~~~~~~~~~
+
+Usage Data is collected automatically when using the Service.
+
+Usage Data may include information such as Your Device's Internet Protocol
+address (e.g. IP address), browser type, browser version, the pages of our
+Service that You visit, the time and date of Your visit, the time spent on
+those pages, unique device identifiers and other diagnostic data.
+
+When You access the Service by or through a mobile device, We may collect
+certain information automatically, including, but not limited to, the type of
+mobile device You use, Your mobile device unique ID, the IP address of Your
+mobile device, Your mobile operating system, the type of mobile Internet
+browser You use, unique device identifiers and other diagnostic data.
+
+We may also collect information that Your browser sends whenever You visit our
+Service or when You access the Service by or through a mobile device.
+
+Information Collected while Using the Application  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+While using Our Application, in order to provide features of Our Application,
+We may collect, with Your prior permission:
+
+  * Pictures and other information from your Device's camera and photo library
+
+We use this information to provide features of Our Service, to improve and
+customize Our Service. The information may be uploaded to the Company's
+servers and/or a Service Provider's server or it may be simply stored on Your
+device.
+
+You can enable or disable access to this information at any time, through Your
+Device settings.
+
+Use of Your Personal Data  
+-------------------------
+
+The Company may use Personal Data for the following purposes:
+
+  * To provide and maintain our Service , including to monitor the usage of
+    our Service.
+
+  * To manage Your Account: to manage Your registration as a user of the
+    Service. The Personal Data You provide can give You access to different
+    functionalities of the Service that are available to You as a registered
+    user.
+
+  * For the performance of a contract: the development, compliance and
+    undertaking of the purchase contract for the products, items or services
+    You have purchased or of any other contract with Us through the Service.
+
+  * To contact You: To contact You by email, telephone calls, SMS, or other
+    equivalent forms of electronic communication, such as a mobile
+    application's push notifications regarding updates or informative
+    communications related to the functionalities, products or contracted
+    services, including the security updates, when necessary or reasonable for
+    their implementation.
+
+  * To provide You with news, special offers and general information about
+    other goods, services and events which we offer that are similar to those
+    that you have already purchased or enquired about unless You have opted
+    not to receive such information.
+
+  * To manage Your requests: To attend and manage Your requests to Us.
+
+  * For business transfers: We may use Your information to evaluate or conduct
+    a merger, divestiture, restructuring, reorganization, dissolution, or
+    other sale or transfer of some or all of Our assets, whether as a going
+    concern or as part of bankruptcy, liquidation, or similar proceeding, in
+    which Personal Data held by Us about our Service users is among the assets
+    transferred.
+
+  * For other purposes : We may use Your information for other purposes, such
+    as data analysis, identifying usage trends, determining the effectiveness
+    of our promotional campaigns and to evaluate and improve our Service,
+    products, services, marketing and your experience.
+
+
+We may share Your personal information in the following situations:
+
+  * With Service Providers: We may share Your personal information with
+    Service Providers to monitor and analyze the use of our Service, to
+    contact You.
+  * For business transfers: We may share or transfer Your personal information
+    in connection with, or during negotiations of, any merger, sale of Company
+    assets, financing, or acquisition of all or a portion of Our business to
+    another company.
+  * With Affiliates: We may share Your information with Our affiliates, in
+    which case we will require those affiliates to honor this Privacy Policy.
+    Affiliates include Our parent company and any other subsidiaries, joint
+    venture partners or other companies that We control or that are under
+    common control with Us.
+  * With business partners: We may share Your information with Our business
+    partners to offer You certain products, services or promotions.
+  * With other users: when You share personal information or otherwise
+    interact in the public areas with other users, such information may be
+    viewed by all users and may be publicly distributed outside.
+  * With Your consent : We may disclose Your personal information for any
+    other purpose with Your consent.
+
+Retention of Your Personal Data  
+-------------------------------
+
+The Company will retain Your Personal Data only for as long as is necessary
+for the purposes set out in this Privacy Policy. We will retain and use Your
+Personal Data to the extent necessary to comply with our legal obligations
+(for example, if we are required to retain your data to comply with applicable
+laws), resolve disputes, and enforce our legal agreements and policies.
+
+The Company will also retain Usage Data for internal analysis purposes. Usage
+Data is generally retained for a shorter period of time, except when this data
+is used to strengthen the security or to improve the functionality of Our
+Service, or We are legally obligated to retain this data for longer time
+periods.
+
+Transfer of Your Personal Data  
+------------------------------
+
+Your information, including Personal Data, is processed at the Company's
+operating offices and in any other places where the parties involved in the
+processing are located. It means that this information may be transferred to —
+and maintained on — computers located outside of Your state, province, country
+or other governmental jurisdiction where the data protection laws may differ
+than those from Your jurisdiction.
+
+Your consent to this Privacy Policy followed by Your submission of such
+information represents Your agreement to that transfer.
+
+The Company will take all steps reasonably necessary to ensure that Your data
+is treated securely and in accordance with this Privacy Policy and no transfer
+of Your Personal Data will take place to an organization or a country unless
+there are adequate controls in place including the security of Your data and
+other personal information.
+
+Delete Your Personal Data  
+-------------------------
+
+You have the right to delete or request that We assist in deleting the
+Personal Data that We have collected about You.
+
+Our Service may give You the ability to delete certain information about You
+from within the Service.
+
+You may update, amend, or delete Your information at any time by signing in to
+Your Account, if you have one, and visiting the account settings section that
+allows you to manage Your personal information. You may also contact Us to
+request access to, correct, or delete any personal information that You have
+provided to Us.
+
+Please note, however, that We may need to retain certain information when we
+have a legal obligation or lawful basis to do so.
+
+Disclosure of Your Personal Data  
+--------------------------------
+
+Business Transactions  
+~~~~~~~~~~~~~~~~~~~~~
+
+If the Company is involved in a merger, acquisition or asset sale, Your
+Personal Data may be transferred. We will provide notice before Your Personal
+Data is transferred and becomes subject to a different Privacy Policy.
+
+Law enforcement  
+~~~~~~~~~~~~~~~
+
+Under certain circumstances, the Company may be required to disclose Your
+Personal Data if required to do so by law or in response to valid requests by
+public authorities (e.g. a court or a government agency).
+
+Other legal requirements  
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+The Company may disclose Your Personal Data in the good faith belief that such
+action is necessary to:
+
+  * Comply with a legal obligation
+  * Protect and defend the rights or property of the Company
+  * Prevent or investigate possible wrongdoing in connection with the Service
+  * Protect the personal safety of Users of the Service or the public
+  * Protect against legal liability
+
+Security of Your Personal Data  
+------------------------------
+
+The security of Your Personal Data is important to Us, but remember that no
+method of transmission over the Internet, or method of electronic storage is
+100% secure. While We strive to use commercially acceptable means to protect
+Your Personal Data, We cannot guarantee its absolute security.
+
+Children's Privacy  
+==================
+
+Our Service does not address anyone under the age of 13. We do not knowingly
+collect personally identifiable information from anyone under the age of 13.
+If You are a parent or guardian and You are aware that Your child has provided
+Us with Personal Data, please contact Us. If We become aware that We have
+collected Personal Data from anyone under the age of 13 without verification
+of parental consent, We take steps to remove that information from Our
+servers.
+
+If We need to rely on consent as a legal basis for processing Your information
+and Your country requires consent from a parent, We may require Your parent's
+consent before We collect and use that information.
+
+Links to Other Websites  
+=======================
+
+Our Service may contain links to other websites that are not operated by Us.
+If You click on a third party link, You will be directed to that third party's
+site. We strongly advise You to review the Privacy Policy of every site You
+visit.
+
+We have no control over and assume no responsibility for the content, privacy
+policies or practices of any third party sites or services.
+
+Changes to this Privacy Policy  
+==============================
+
+We may update Our Privacy Policy from time to time. We will notify You of any
+changes by posting the new Privacy Policy on this page.
+
+We will let You know via email and/or a prominent notice on Our Service, prior
+to the change becoming effective and update the "Last updated" date at the top
+of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes.
+Changes to this Privacy Policy are effective when they are posted on this
+page.
+
+Contact Us  
+==========
+
+If you have any questions about this Privacy Policy, You can contact us:
+
+  * By email: lezgindev@gmail.com
+""";
 
 }
